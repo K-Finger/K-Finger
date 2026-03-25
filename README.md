@@ -2,6 +2,9 @@
 
 I like building backend applications, especially for projects with a lot of data and complexity. I’m interested in the parts of software that involve careful problem solving
 
+- Software Engineer at the UMN Otopathology Lab
+- Tech Lead for App Developers Club
+
 ## Projects
 
 📍 GopherTunnels - a UMN campus navigation app • 1,000+ downloads  ᯓ➤ <br>
