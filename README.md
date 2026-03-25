@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kieran</h1>
 
-I like building backend applications, especially for projects with a lot of data and complexity. I’m interested in the parts of software that involve careful problem solving
+Computer Science Student at the University of Minnesota. I like building backend applications, especially for projects with a lot of data and complexity. I’m interested in the parts of software that involve careful problem solving
 
 - Software Engineer at the UMN Otopathology Lab
 - Tech Lead for App Developers Club
