@@ -4,8 +4,8 @@ I like building backend applications, especially for projects with a lot of data
 
 ## Projects
 
-📍 GopherTunnels - a UMN campus navigation app   ᯓ➤ <br>
-🖼️ MemoryMosaic - collaborative infinite canvas app * 1st place at MinneHack 2026 🏆 <br>
+📍 GopherTunnels - a UMN campus navigation app • 1,000+ downloads  ᯓ➤ <br>
+🖼️ MemoryMosaic - collaborative infinite canvas app • 1st place at MinneHack 2026 🏆 <br>
 🏋️ GopherFit - Developing a fitness app for App Developers Club
 
 
