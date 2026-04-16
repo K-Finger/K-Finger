@@ -11,7 +11,7 @@ Computer Science Student at the University of Minnesota. I like building apps, e
 🖼️ MemoryMosaic - collaborative infinite canvas app • 1st place at MinneHack 2026 🏆 <br>
 🔬 Otopathology Database - a healthcare database and website for the world's largest collection of temporal bones <br>
 🗃️ Mailroom - a customizable document processing pipeline to automate data entry <br>
-➡️ Graphr - graph editing tool for GopherTunnels. Handles indoor tunnels, buildings, entrances, and more.
+➡️ Graphr - graph editing tool for GopherTunnels. Handles indoor tunnels, buildings, entrances, and more <br>
 🏋️ GopherFit - developing a fitness app for App Developers Club
 
 
