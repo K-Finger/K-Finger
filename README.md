@@ -12,9 +12,9 @@ Computer Science Student at the University of Minnesota. I like building apps, e
 🔬 Otopathology Database - a research database and web-viewer for the world's largest collection of temporal bones <br>
 🗃️ [Mailroom](https://github.com/K-Finger/Mailroom) - a customizable document processing pipeline to automate data entry <br>
 ➡️ [Graphr](https://github.com/K-Finger/Graphr) - graph editing tool for GopherTunnels. Handles indoor tunnels, buildings, entrances, and more <br>
-🏋️ [GopherFit](https://github.com/umn-adc/gopher-fit-back) - developing a fitness app for App Developers Club
-📖 [C++ Limit Order Book](https://github.com/K-Finger/Limit-Order-Book) - a C++20 limit order book that benchmarks different optimization techniques 
-🔎 [FIX Parser](https://github.com/K-Finger/fix-parser) - FIX protocal parser built with C++20 for intel hardware.
+🏋️ [GopherFit](https://github.com/umn-adc/gopher-fit-back) - developing a fitness app for App Developers Club <br>
+📖 [C++ Limit Order Book](https://github.com/K-Finger/Limit-Order-Book) - a C++20 limit order book that benchmarks different optimization techniques  <br>
+🔎 [FIX Parser](https://github.com/K-Finger/fix-parser) - FIX protocal parser built with C++20 for intel hardware. <br>
 
 
 <br>
