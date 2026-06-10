@@ -2,8 +2,9 @@
 
 Computer Science Student at the University of Minnesota. I like building apps, especially for projects with a lot of data and complexity. I’m interested in the parts of software that involve careful problem solving
 
-- Full-Stack Software Engineer at the UMN Otopathology Lab
+- Software Engineer at the UMN Otopathology Lab
 - President of App Developers Club
+- Treasurer of Competitive Programming Club
 
 ## Projects
 
