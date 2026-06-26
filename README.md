@@ -16,7 +16,7 @@ Computer Science Student at the University of Minnesota. I like building apps, e
 ➡️ [Graphr](https://github.com/K-Finger/Graphr) - graph editing tool for GopherTunnels. Handles indoor tunnels, buildings, entrances, and more <br>
 🏋️ [GopherFit](https://github.com/umn-adc/gopher-fit-back) - developing a fitness app for App Developers Club <br>
 ♣️ Playing Card Classification Model - A frozen DINOv2 Model trained to classify playing cards for Computer Vision <br>
-📖 [C++ Limit Order Book](https://github.com/K-Finger/Limit-Order-Book) - a C++20 limit order book that benchmarks different optimization techniques  <br>
+📖 [C++ Limit Order Book](https://github.com/K-Finger/Limit-Order-Book) - an open source C++20 limit order book library. Sub-100ns operations  <br>
 🔎 [FIX Parser](https://github.com/K-Finger/fix-parser) - FIX protocol parser built with C++20 for x86-64 with AVX2 <br>
 
 
