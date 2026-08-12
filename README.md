@@ -9,7 +9,7 @@ Computer Science Student at the University of Minnesota. I like building apps, e
 
 ## C++
 📖 [liborderbook](https://github.com/K-Finger/Limit-Order-Book) - an open source C++20 limit order book library. Sub-50 nanosecond operations  <br>
-🔎 [FIX Parser](https://github.com/K-Finger/fix-parser) - FIX protocol parser built with C++20 for x86-64 with AVX2 <br>
+🔎 [FIX Parser](https://github.com/K-Finger/fix-parser) - High-performance FIX protocol parser built with C++20 for x86-64 with AVX2 <br>
 🌐 [HFT Platform](https://github.com/K-Finger/HFT-Platform) - End-to-end HFT platform. 
 
 ## Projects
