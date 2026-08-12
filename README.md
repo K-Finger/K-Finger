@@ -20,7 +20,6 @@ Computer Science Student at the University of Minnesota. I like building apps, e
 🗃️ [Mailroom](https://github.com/K-Finger/Mailroom) - a customizable document processing pipeline to automate data entry <br>
 ➡️ [Graphr](https://github.com/K-Finger/Graphr) - graph editing tool for GopherTunnels. Handles indoor tunnels, buildings, entrances, and more <br>
 🏋️ [GopherFit](https://github.com/umn-adc/gopher-fit-back) - developing a fitness app for App Developers Club <br>
-♣️ Playing Card Classification Model - A frozen DINOv2 Model trained to classify playing cards for Computer Vision <br>
 
 <br>
 <p>
