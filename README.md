@@ -15,7 +15,7 @@ Computer Science Student at the University of Minnesota. I like building apps, e
 ## Projects
 📍 [GopherTunnels](https://github.com/gopher-tunnels/gt-back-end) - a UMN campus navigation app • 1,000+ downloads  ᯓ➤ <br>
 🖼️ [MemoryMosaic](https://github.com/K-Finger/MemoryMosaic) - collaborative infinite canvas app • 1st place at MinneHack 2026 🏆 <br>
-🔬 Otopathology Database - a research database and web-viewer for the world's largest collection of temporal bones <br>
+🔬 Otopathology Database - a research database and web-viewer for the world's largest collection of temporal bones at the UMN<br>
 
 🗃️ [Mailroom](https://github.com/K-Finger/Mailroom) - a customizable document processing pipeline to automate data entry <br>
 ➡️ [Graphr](https://github.com/K-Finger/Graphr) - graph editing tool for GopherTunnels. Handles indoor tunnels, buildings, entrances, and more <br>
