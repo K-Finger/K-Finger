@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kieran </h1>
 
-Computer Science Student at the University of Minnesota.
+Computer Science Student at the University of Minnesota. Leading development on an open-source algorithmic trading platform called ATLAS
 
 - Software Engineer Intern at Renovo Automation
 - Software Engineer at the UMN Otopathology Lab
