@@ -10,7 +10,8 @@ Computer Science Student at the University of Minnesota. Leading development on 
 ## C++
 📖 [liborderbook](https://github.com/K-Finger/Limit-Order-Book) - an open source C++20 limit order book library. Sub-50 nanosecond operations  <br>
 🔎 [FIX Parser](https://github.com/K-Finger/fix-parser) - High-performance FIX protocol parser built with C++20 for x86-64 with AVX2 <br>
-🌐 [Binance Market Feed](https://github.com/K-Finger/HFT-Platform) - Lock-free SPSC ring buffer for Binance market data ingestion
+🌐 [Binance Market Feed](https://github.com/K-Finger/Binance-Market-Feed) - Lock-free SPSC ring buffer for Binance market data ingestion
+📊 [Spot-Vol HFT](https://github.com/K-Finger/spot-vol-hft) - Recovers spot-vol beta from tick-level options data via Black-Scholes IV inversion <br>
 
 ## Projects
 📍 [GopherTunnels](https://github.com/gopher-tunnels/gt-back-end) - a UMN campus navigation app • 1,000+ downloads  ᯓ➤ <br>
