@@ -15,11 +15,10 @@ Computer Science Student at the University of Minnesota. Leading development on 
 🤯 [My Competitive Programming Solutions ](https://github.com/K-Finger/competitive-programming) - My solutions + setup for comp prog
 
 ## Projects
-🎲 [Programmle.com](https://programmle.com/) - A live wordle-inspired trivia game for programmers
+🎲 [Programmle.com](https://programmle.com/) - A live wordle-inspired trivia game for programmers <br>
 📍 [GopherTunnels](https://github.com/gopher-tunnels/gt-back-end) - a UMN campus navigation app • 1,000+ downloads  ᯓ➤ <br>
 🖼️ [MemoryMosaic](https://github.com/K-Finger/MemoryMosaic) - collaborative infinite canvas app • 1st place at MinneHack 2026 🏆 <br>
 🔬 Otopathology Database - a research database and web-viewer for the world's largest collection of temporal bones at the UMN<br>
-
 🗃️ [Mailroom](https://github.com/K-Finger/Mailroom) - a customizable document processing pipeline to automate data entry <br>
 ➡️ [Graphr](https://github.com/K-Finger/Graphr) - graph editing tool for GopherTunnels. Handles indoor tunnels, buildings, entrances, and more <br>
 🏋️ [GopherFit](https://github.com/umn-adc/gopher-fit-back) - developing a fitness app for App Developers Club <br>
