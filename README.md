@@ -12,7 +12,6 @@ Computer Science Student at the University of Minnesota. Leading development on 
 🔎 [FIX Parser](https://github.com/K-Finger/fix-parser) - High-performance FIX protocol parser built with C++20 for x86-64 with AVX2 <br>
 🌐 [Binance Market Feed](https://github.com/K-Finger/Binance-Market-Feed) - Lock-free SPSC ring buffer for Binance market data ingestion <br>
 📊 [Spot-Vol HFT](https://github.com/K-Finger/spot-vol-hft) - Recovers spot-vol beta from tick-level options data via Black-Scholes IV inversion <br>
-🤯 [My Competitive Programming Solutions ](https://github.com/K-Finger/competitive-programming) - My solutions + setup for comp prog
 
 ## Projects
 🎲 [Programmle.com](https://programmle.com/) - A live wordle-inspired trivia game for programmers <br>
